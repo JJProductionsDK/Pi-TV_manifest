@@ -40,3 +40,6 @@ mka kernel ramdisk systemimage
 cd device/brcm/rpi3
 sudo ./mkimg.sh
 ```
+
+Got build errors??
+look [here](https://github.com/JJProductionsDK/Pi-TV_manifest/wiki/Build-error-fix#this-is-a-list-over-ways-to-fix-build-errors)
