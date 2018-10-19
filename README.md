@@ -15,7 +15,7 @@ sudo apt-get install kpartx python-mako
 
 ```
 repo init -u git://github.com/LineageOS/android.git -b cm-14.1
-curl --create-dirs -L -o .repo/local_manifests/manifest_brcm_rpi3.xml -O -L https://raw.githubusercontent.com/JJProductionsDK/android_local_manifest/cm-14.1/manifest_brcm_rpi3.xml
+curl --create-dirs -L -o .repo/local_manifests/manifest_brcm_rpi3.xml -O -L https://raw.githubusercontent.com/JJProductionsDK/Pi-TV_manifest/cm-14.1/manifest_brcm_rpi3.xml
 repo sync
 ```
 
