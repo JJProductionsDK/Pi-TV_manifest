@@ -1,4 +1,4 @@
-Manifests to build TWRP for [Raspberry Pi 3](http://konstakang.com/devices/rpi3/TWRP).
+Manifests to build TWRP for Raspberry Pi 3 [by KanstaKANG](http://konstakang.com/devices/rpi3/TWRP).
 
 How to build:
 -------------
@@ -8,8 +8,8 @@ How to build:
 2. Initialize repo:
 
 ```
-repo init -u git://github.com/lineage-rpi/android_local_manifest.git -b twrp-8.1
-curl --create-dirs -L -o .repo/local_manifests/manifest_brcm_rpi3.xml -O -L https://raw.githubusercontent.com/lineage-rpi/android_local_manifest/twrp-8.1/manifest_brcm_rpi3.xml
+repo init -u git://github.com/JJProductionsDK/Pi-TV_manifest.git -b twrp-8.1
+curl --create-dirs -L -o .repo/local_manifests/manifest_brcm_rpi3.xml -O -L https://raw.githubusercontent.com/JJProductionsDK/Pi-TV_manifest/twrp-8.1/manifest_brcm_rpi3.xml
 repo sync
 ```
 
