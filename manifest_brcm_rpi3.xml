@@ -2,8 +2,8 @@
 <!-- Pi TV -->
 <manifest>
     <!-- Raspberry Pi 3 -->
-    <project path="device/brcm/rpi3" name="lineage-rpi/android_device_brcm_rpi3" />
-    <project path="hardware/rpi3" name="lineage-rpi/android_hardware_rpi3" />
+    <project path="device/brcm/rpi3" name="JJProductionsDK/android_device_brcm_rpi3" />
+    <project path="hardware/rpi3" name="JJProductionsDK/android_hardware_rpi3" />
     <project path="kernel/brcm/rpi3" name="lineage-rpi/android_kernel_brcm_rpi3" />
     <project path="vendor/brcm" name="lineage-rpi/proprietary_vendor_brcm" />
 
